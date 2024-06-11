@@ -23,6 +23,8 @@ def main():
     print("Welcome to the Math App!!!")
     print("")  # line break
     ### write code to complete this function BELOW here ###
+    app_functions.print_question(3, 5, "sum")
+    app_functions.print_correct_answer(3, 5, "sum")
 
     ### write code to complete this function ABOVE here ###
     print("")  # line break
